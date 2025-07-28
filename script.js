@@ -11,7 +11,7 @@ function appendOperator(op) {
 }
 
 function isOperator(char) {
-  return ['+', '-'].includes(char);
+  return ['+', '-', '*', '/'].includes(char);
 }
 
 function clearDisplay() {
