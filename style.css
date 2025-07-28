@@ -49,7 +49,7 @@ button {
 }
 
 button:hover {
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(235, 205, 236, 1);
   color: #000;
 }
 
