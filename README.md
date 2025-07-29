@@ -1,6 +1,2 @@
 # Dog-Themed Calculator App 🐶 
-This is a basic calculator web app styled with a transparent button layout and a background photo of my dog. It performs standard arithmetic operations: addition, subtraction, multiplication, and division.
-
-# About
-This calculator is both functional and personal—it uses a cute photo of my dog as its background to make math a little more fun.
-The layout mimics the look and feel of the lowkey phone calculator, with all basic features implemented using HTML, CSS, and JavaScript.
+This is a basic calculator web app styled with a transparent button layout and a background photo of my dog. It performs standard arithmetic operations: addition, subtraction, multiplication, and division. The layout mimics the look and feel of the lowkey phone calculator, with all basic features implemented using HTML, CSS, and JavaScript.
